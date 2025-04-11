@@ -100,7 +100,7 @@ Access it at [http://localhost:8501](http://localhost:8501)
 ![Sidebar Input](images/Sidebar_Input.png)
 
 ### 🌿 Churn Prediction Output (Not Churned)
-![Not Churn Output](images/Not_Churn_Output.png.png)
+![Not Churn Output](images/Not_Churn_Output.png)
 
 ---
 
