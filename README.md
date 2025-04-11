@@ -91,16 +91,16 @@ Access it at [http://localhost:8501](http://localhost:8501)
 ## 📷 Dashboard Screenshots
 
 ### 🧠 Churn Prediction Output (Churned)
-![Churn Output](images/Screenshot_2025-04-11_225442.png)
+![Churn Output](images/Churn_Output.png)
 
 ### 🔄 Feature Comparison Chart
-![Bar Comparison](images/Screenshot_2025-04-11_225450.png)
+![Bar Comparison](images/Bar_Comparison.png)
 
 ### 📄 Sidebar Input Panel
-![Sidebar Input](images/Screenshot_2025-04-11_225458.png)
+![Sidebar Input](images/Sidebar_Input.png)
 
 ### 🌿 Churn Prediction Output (Not Churned)
-![Not Churn Output](images/Screenshot_2025-04-11_225518.png)
+![Not Churn Output](images/Not_Churn_Output.png.png)
 
 ---
 
