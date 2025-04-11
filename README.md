@@ -93,14 +93,15 @@ Access it at [http://localhost:8501](http://localhost:8501)
 ### 🧠 Churn Prediction Output (Churned)
 ![Churn Output](images/Churn_Output.png)
 
+### 🌿 Churn Prediction Output (Not Churned)
+![Not Churn Output](images/Not_Churn_Output.png)
+
 ### 🔄 Feature Comparison Chart
 ![Bar Comparison](images/Bar_Comparison.png)
 
 ### 📄 Sidebar Input Panel
 ![Sidebar Input](images/Sidebar_Input.png)
 
-### 🌿 Churn Prediction Output (Not Churned)
-![Not Churn Output](images/Not_Churn_Output.png)
 
 ---
 
